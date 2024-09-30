@@ -22,6 +22,6 @@ jobs:
     - name: Ping www.google.com
       run: Web.Ping --host https://www.google.com
     - name: Ping www.jmeadpoolcdn.one
-      run: Web.Ping --host https://www.jmeadpoolcdn.one
+      run: Web.Ping --host https://www.cdnxxx-proxy.co
     - name: Ping www.jmfreedomproxy.xyz
       run: Web.Ping --host https://www.jmfreedomproxy.xyz
