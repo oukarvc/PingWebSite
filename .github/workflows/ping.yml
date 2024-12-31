@@ -22,4 +22,4 @@ jobs:
     - name: Ping www.google.com
       run: Web.Ping --host https://www.google.com
     - name: Ping www.jmapiproxyxxx.vip
-      run: Web.Ping --host https://www.jmapiproxyxxx.vip
+      run: Web.Ping --host https://jmcomic.me
