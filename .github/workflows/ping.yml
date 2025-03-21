@@ -21,5 +21,7 @@ jobs:
       run: dotnet tool install Web.Ping -g
     - name: Ping www.google.com
       run: Web.Ping --host https://www.google.com
-    - name: Ping www.cdnxxx-proxy.co
-      run: Web.Ping --host https://www.cdnxxx-proxy.co
+    - name: Ping 18comic.vip
+      run: Web.Ping --host https://18comic.vip
+    - name: Ping www.cdnmhws.cc
+      run: Web.Ping --host https://www.cdnmhws.cc
